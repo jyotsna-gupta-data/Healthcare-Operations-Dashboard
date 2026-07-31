@@ -21,6 +21,7 @@ An interactive Tableau dashboard that turns raw hospital data into clean, easy-t
 
 ---
 
-## 📂 Repository Files
-├── Healthcare_dashboard_v3.twbx        # Tableau dashboard file
-└── README.md                         # Project documentation
+## 📂 Repository Resources
+
+* 📊 [Healthcare Dashboard File (TWBX)](Healthcare_dashboard_v3.twbx)
+* 📑 [Project Documentation (README.md)](README.md)
