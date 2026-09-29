@@ -1,5 +1,5 @@
 # 🏥 Healthcare Operations & Patient Analytics Dashboard
-
+![Dashboard Preview](Screenshot%2026-07-06%232528.png)
 An interactive Tableau dashboard that turns raw hospital data into clean, easy-to-read insights for hospital managers.
 
 ---
